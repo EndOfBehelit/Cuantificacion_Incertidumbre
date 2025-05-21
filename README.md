@@ -1,4 +1,4 @@
-# Cuantificacion_Incertidumbre
+# Cuantificacion de Incertidumbre
 Práctica sobre la aplicación de cuantificación de incertidumbre en modelos de clasificación binaria, para explicar la importancia de no considerar las 'raw scores'
  como probabilidades reales y hacer el modelo de predicción capaz de indicar cuál es su grado de seguridad/fiabilidad sobre el resultado dado.
 
