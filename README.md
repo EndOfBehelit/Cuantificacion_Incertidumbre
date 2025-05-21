@@ -1,6 +1,6 @@
 # Cuantificacion_Incertidumbre
-Práctica sobre la aplicación de cuantificación de incertidumbre a modelos de clasificación binaria, para explicar la importancia de no considerar las 'raw scores'
- como probabilidades reales y hacer a el modelo de predicción capaz de indicar cuál es su grado de seguridad sobre el resultado dado.
+Práctica sobre la aplicación de cuantificación de incertidumbre en modelos de clasificación binaria, para explicar la importancia de no considerar las 'raw scores'
+ como probabilidades reales y hacer el modelo de predicción capaz de indicar cuál es su grado de seguridad/fiabilidad sobre el resultado dado.
 
 El dataset elegido no consta de variables categóricas, sólo se analizan numéricas y se usan los modelos de Random Forest y Regresión Logística.
 
