@@ -25,6 +25,6 @@ Una vez elegido un modelo con los mejores hiperparámetros posibles, se vuelve a
 
 # Fuentes
 
-Este proyecto toma como base una conferencia impartida en Oviedo, Asturias, por la experta [María Moreno de Castro](https://www.linkedin.com/in/maria-moreno-de-castro/), en la cual presentó un taller exhaustivo sobre la cuantificación de la incertidumbre. El objetivo principal de este trabajo es divulgar los contenidos abordados en dicha conferencia y con fines formativos y de desarrollo práctico.
+Este proyecto toma como base una conferencia impartida en Oviedo, Asturias, por la experta [María Moreno de Castro](https://www.linkedin.com/in/maria-moreno-de-castro/), en la cual presentó un taller exhaustivo sobre la cuantificación de la incertidumbre. El objetivo principal de este trabajo es divulgar los contenidos abordados en dicha conferencia con fines formativos y de desarrollo práctico. 
 
 Para cualquiera que esté interesado en el tema, dejo su GitHub en el que puede encontrarse información sobre más temas que no se llegan a abordar en este pequeño taller [aqui](https://github.com/MMdeCastro/Uncertainty_Quantification_XAI).
