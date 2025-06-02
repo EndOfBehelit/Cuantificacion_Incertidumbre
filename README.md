@@ -21,3 +21,10 @@ Se estudia la relevancia de las diferentes variables y su correlación entre ell
 Para la elección del modelo y sus hiperparámetros se hace una primera segmentación de los datos en 3 conjuntos (entrenamiento, validación y test), usando así el conjunto de validación para ver los valores de las métricas del modelo reales, no sesgadas. Luego se evalúan los modelos testados con la parte de test.
 
 Una vez elegido un modelo con los mejores hiperparámetros posibles, se vuelve a segmentar el dataset y entrenar de nuevo el modelo, pero esta vez se utilizará un conjunto para calibrar y calcular el rango de amplitud de las probabilidades en las que entra la predicción del modelo.
+
+
+# Fuentes
+
+Este proyecto toma como base una conferencia impartida en Oviedo, Asturias, por la experta [María Moreno de Castro](https://www.linkedin.com/in/maria-moreno-de-castro/), en la cual presentó un taller exhaustivo sobre la cuantificación de la incertidumbre. El objetivo principal de este trabajo es divulgar los contenidos abordados en dicha conferencia y con fines formativos y de desarrollo práctico.
+
+Para cualquiera que esté interesado en el tema, dejo su GitHub en el que puede encontrarse información sobre más temas que no se llegan a abordar en este pequeño taller [aqui](https://github.com/MMdeCastro/Uncertainty_Quantification_XAI).
